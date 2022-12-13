@@ -26,11 +26,11 @@ _git branch_ - список веток на экран
 
 _git branch NAME_ - новая ветка
 
-_git checkout_ - перейти к ветке
+_git checkout NAME_ - перейти к ветке
 
 _git merge NAME_ - слить ветки
 
 _git branch -d NAME_ - удалить ветку
 
-_git log -- graph_ - лог с визуализации
+_git log -- graph_ - лог с визуализации 
 
